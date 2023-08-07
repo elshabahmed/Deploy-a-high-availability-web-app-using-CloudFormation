@@ -1,1 +1,1 @@
-# Deploy-a-high-availability-web-app-using-CloudFormation
+In this project, I used cloud formation to deploy web servers for a highly available web app. the code contains creation and deployment the infrastructure and application for an Instagram-like app from the ground up. begins with deploying the networking components, followed by servers, security roles and software. 
